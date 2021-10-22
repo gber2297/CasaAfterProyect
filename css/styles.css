@@ -1,0 +1,59 @@
+#logo {
+    height: 40px;
+}
+.redes {
+    height: 30px;
+    box-shadow: blanchedalmond;
+}
+.navbar {
+    background-color: black;
+}
+
+.navbar:hover {
+color: rgb(233, 30, 99);
+}
+.carousel-inner {
+    height:40vh ;
+}
+
+.img {
+    height: 300px;
+    object-fit: contain;
+    
+}
+
+body {
+    background-color: black;
+}
+h2 {
+  
+   text-align: center;
+   color: white;
+}
+
+
+h2:hover {
+    color: rgb(233, 30, 99) ;
+}
+.card {
+    background-color: rgb(233, 30, 99);
+    color: white;
+ 
+}
+ .card:hover {
+    background-color:white;
+    color: rgb(233, 30, 99) ;
+ }
+.jumbotron {
+   
+    background-color: transparent;
+    color: white;
+}
+.btn {
+background-color: rgb(233, 30, 99) ;
+color: white;
+}
+.btn:hover {
+    background-color: transparent;
+    color: rgb(233, 30, 99);
+}
